@@ -12,6 +12,6 @@
 
 ## 3. git
 #### 3.1 自我介绍
-https://github.com/InternLM/Tutorial/pull/870
+https://github.com/InternLM/Tutorial/pull/879
 #### 3.2 git仓库
 https://github.com/zgm594120/internLM-practices
