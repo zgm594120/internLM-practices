@@ -1,4 +1,7 @@
 1. linux
+![linux_1](https://github.com/zgm594120/internLM-practices/assets/34993097/6641f5e5-489e-455d-b152-697873ede227)
+![linux_2](https://github.com/zgm594120/internLM-practices/assets/34993097/46082dd8-faec-45a5-acb3-a842c0c973db)
+![linux_3](https://github.com/zgm594120/internLM-practices/assets/34993097/c7c3afc4-c186-4821-b44f-1ed2d8c90401)
 
 2. python
 2.1 wordcount
